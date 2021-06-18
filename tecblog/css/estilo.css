@@ -59,3 +59,35 @@ a:hover {
 a:active {
   color: #535353;
 }
+
+/* area conteudo */
+#area-conteudo {
+  width: 720px;
+  margin: 20px auto;
+}
+
+#post {
+  padding: 10px;
+  margin-bottom: 10px;
+  background-color: white;
+}
+
+.data-post {
+  font-size: 14px;
+  display: block;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #f4f4f4;
+}
+
+.img-post {
+  float: left;
+  margin: 0 10px 10px 0;
+}
+
+.postado {
+  display: block;
+  margin-top: 10px;
+  padding-left: 5px;
+  border-left: solid 5px #d8d8d8;
+}
