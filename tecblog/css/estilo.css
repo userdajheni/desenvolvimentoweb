@@ -25,3 +25,33 @@ body {
 
 /* Tec na cor verde */
 .verde { color: #b9c941; }
+
+/* logo*/
+#logo {
+  float: left;
+}
+
+/* links */
+#menu {
+  float: right;
+  padding: 10px 0;
+}
+
+a {
+padding: 5px 10px;
+  text-decoration: none;
+}
+
+a:link {
+  color: #838383;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #838383;
+}
+
+a:hover {
+  color: white;
+  background-color: #b9c941;
+}
