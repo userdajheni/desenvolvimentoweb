@@ -16,4 +16,5 @@ Este repositório foi criado para hospedar os projetos práticos desenvolvidos a
 
 
 # Projetos do curso
-[Site Jm Viagens](https://userdajheni.github.io/desenvolvimentoweb/jmviagem/index.html) - Site extremamente básico criado com tabela.
+[Site Jm Viagens](https://userdajheni.github.io/desenvolvimentoweb/jmviagem/) - Site extremamente básico criado com tabela.
+[TecBlog](https://userdajheni.github.io/desenvolvimentoweb/tecblog/) - Blog
