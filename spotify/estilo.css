@@ -55,11 +55,12 @@ nav.navbar-transparente {
   margin: 16px 10px;
 }
 
-.navbar-inverse .navbar-nav>li>a {
+.navbar-inverse .navbar-nav>li>a, footer .nav a {
   color: white;
 }
-.navbar-inverse .navbar-nav>li>a:hover {
+.navbar-inverse .navbar-nav>li>a:hover, footer .nav a:hover {
   color: #9bf0e1;
+  background: none;
 }
 
 /* banner */
@@ -123,4 +124,21 @@ nav.navbar-transparente {
 .rotacionar {
   transform: rotate(30deg);
   padding-left: 80px;
+}
+
+/* rodape */
+footer {
+  padding: 50px 0 20px 0;
+  position: relative;
+  background-color: black;
+}
+
+footer h4 {
+  font-size: 12px;
+  color: #919496;
+  text-transform: uppercase;
+}
+
+footer .social li {
+  float: right;
 }
