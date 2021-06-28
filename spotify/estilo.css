@@ -111,3 +111,11 @@ nav.navbar-transparente {
 }
 
 #servicos h2, #servicos h3 { color: #7c25f8; }
+
+/* seção recursos */
+#recursos {
+  color: white;
+  padding: 20px 0;
+}
+
+#recursos h3 { color: #9bf0e1;}
