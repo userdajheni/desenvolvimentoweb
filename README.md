@@ -19,3 +19,5 @@ Este repositório foi criado para hospedar os projetos práticos desenvolvidos a
 [Site Jm Viagens](https://userdajheni.github.io/desenvolvimentoweb/jmviagem/) - Site extremamente básico criado com tabela.
 
 [TecBlog](https://userdajheni.github.io/desenvolvimentoweb/tecblog/index.html) - Blog
+
+[Spotify](https://userdajheni.github.io/desenvolvimentoweb/spotify/index.html) - Recriação do site Spotify
