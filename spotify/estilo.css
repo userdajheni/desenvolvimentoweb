@@ -17,6 +17,18 @@ h1 {
   margin-bottom: 50px;
 }
 
+h2 {
+  font-size: 50px;
+  font-weight: 700;
+  letter-spacing: -0.04em;
+}
+
+h3 {
+  font-size: 35px;
+  font-weight: 700;
+  letter-spacing: -0.04em;
+}
+
 /* logo */
 .img-logo {
   height: 40px;
@@ -87,3 +99,15 @@ nav.navbar-transparente {
   color: black;
   background-color: white;
 }
+
+/* seção serviços */
+#servicos {
+  background-color: white;
+  padding: 20px 0;
+}
+
+.albuns {
+  padding: 10px 0;
+}
+
+#servicos h2, #servicos h3 { color: #7c25f8; }
