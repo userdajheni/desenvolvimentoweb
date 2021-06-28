@@ -119,3 +119,8 @@ nav.navbar-transparente {
 }
 
 #recursos h3 { color: #9bf0e1;}
+
+.rotacionar {
+  transform: rotate(30deg);
+  padding-left: 80px;
+}
